@@ -180,7 +180,7 @@ class SlideTransition(Transition):
 
 ## 📄 开源协议
 
-MIT License - 详见 [LICENSE](LICENSE)
+LGPL-3.0 License - 详见 [LICENSE](LICENSE)
 
 ---
 
